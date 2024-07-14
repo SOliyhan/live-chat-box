@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# Configuration files
+.env
+config.py
