@@ -1,4 +1,4 @@
-# ChatterBox
+# Live Chat Box
 
 Live Chat Box is a real-time chat application built with Flask and Socket.IO.
 
